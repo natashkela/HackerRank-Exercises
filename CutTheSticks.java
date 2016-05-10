@@ -10,6 +10,7 @@ public class Solution {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int arr[] = new int[n];
+        int allsame=0;
         for(int i=0; i < n; i++){
             arr[i] = in.nextInt();
         }
@@ -18,7 +19,11 @@ public class Solution {
             if(arr[i]<min){
                 min = arr[i];
             }
+            if(min==arr[i]){
+                allsame++;
+            }
         }//find minimum
+        if(allsame!=arr.length){
         System.out.println(arr.length);
         LinkedList <Integer> nums = new LinkedList<Integer>();
         
@@ -40,6 +45,10 @@ public class Solution {
             if(nums.size()!=0){
                 System.out.println(nums.size());
             }
+        }
+        }
+        else{
+            System.out.println(arr.length);
         }
     }
 }
