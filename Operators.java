@@ -3,6 +3,9 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
+/*
+Problem Description: https://www.hackerrank.com/challenges/30-operators
+*/
 public class Arithmetic {
 
     public static void main(String[] args) {
