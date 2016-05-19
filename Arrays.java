@@ -1,7 +1,9 @@
 import java.io.*;
 import java.util.*;
 
-
+/*
+Problem Description:https://www.hackerrank.com/challenges/30-arrays
+*/
 public class Solution {
 
     public static void main(String[] args) {
