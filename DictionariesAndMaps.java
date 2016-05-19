@@ -2,6 +2,10 @@
 import java.util.*;
 import java.io.*;
 
+/*
+Problem Description: https://www.hackerrank.com/contests/30-days-of-code/challenges/day-8-dictionaries-and-maps
+*/
+
 class Solution{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
