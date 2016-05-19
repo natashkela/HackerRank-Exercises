@@ -1,4 +1,9 @@
-	public class Person {
+
+/*
+Problem Description: https://www.hackerrank.com/challenges/30-class-vs-instance
+*/
+
+public class Person {
     private int age;	
   
 	public Person(int initialAge) {
