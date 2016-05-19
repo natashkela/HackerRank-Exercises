@@ -4,6 +4,10 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/*
+Problem Description: https://www.hackerrank.com/challenges/find-digits
+*/
+
 public class Solution {
 
     public static void main(String[] args) {
