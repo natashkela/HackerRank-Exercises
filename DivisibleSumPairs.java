@@ -23,7 +23,7 @@ public class Solution {
         }
         for(int i=0;i<n;i++){
             for(int j=i;j<n;j++){
-                if(i<j&&(a[i]+a[j])%3==0){
+                if(i<j&&(a[i]+a[j])%k==0){
                     counter++;
                 }
             }
