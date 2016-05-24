@@ -4,7 +4,9 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-
+/*
+Problem Description: https://www.hackerrank.com/challenges/30-scope
+*/
 class Difference {
   	private int[] elements;
   	public int maximumDifference;
