@@ -6,6 +6,7 @@ import java.util.regex.*;
 
 /*
 Problem Description: https://www.hackerrank.com/challenges/30-data-types
+view it there
 */
 
 public class Solution {
