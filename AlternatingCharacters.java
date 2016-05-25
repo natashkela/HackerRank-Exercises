@@ -6,6 +6,7 @@ import java.util.regex.*;
 
 /*
 Problem Description: https://www.hackerrank.com/challenges/alternating-characters
+view it on hackerrank
 */
 
 public class Solution {
