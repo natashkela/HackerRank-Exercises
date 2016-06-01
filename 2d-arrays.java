@@ -3,12 +3,10 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-
 /*
 Problem Description: https://www.hackerrank.com/challenges/30-2d-arrays
 */
 public class Solution {
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int arr[][] = new int[6][6];
