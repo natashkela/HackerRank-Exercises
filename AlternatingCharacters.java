@@ -23,9 +23,7 @@ public class Solution {
                 if(word.charAt(j)==word.charAt(j-1)){
                     result.add(Character.toString(word.charAt(j)));
                 }
-                //else{
-                  //  result.add(Character.toString(word.charAt(j)));
-                //}
+                
             }
             System.out.println(result.size());
         }
