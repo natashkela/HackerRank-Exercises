@@ -9,7 +9,6 @@ Problem Description: https://www.hackerrank.com/challenges/caesar-cipher-1
 */
 
 public class Solution {
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
@@ -66,5 +65,5 @@ public class Solution {
             }
                 System.out.print(output);
             }
-        }
+        }//end
 }
