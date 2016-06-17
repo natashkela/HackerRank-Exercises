@@ -6,7 +6,6 @@ Problem Description: https://www.hackerrank.com/challenges/java-string-tokens
 */
 
 public class Solution {
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.nextLine();
