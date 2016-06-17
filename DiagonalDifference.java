@@ -9,7 +9,6 @@ Problem Description: https://www.hackerrank.com/challenges/diagonal-difference
 */
 
 public class Solution {
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
@@ -29,6 +28,6 @@ public class Solution {
             }
         }
         difference = Math.abs(primarySum-secondarySum);
-       System.out.println(difference);
+        System.out.println(difference);
     }
 }
