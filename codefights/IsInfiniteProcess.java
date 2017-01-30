@@ -1,5 +1,5 @@
 boolean isInfiniteProcess(int a, int b) {
-    if((Math.abs(a-b)<=2||Math.abs(a-b)==5)&&a!=b){
+    if(a>b||(b - a) % 2 != 0){
         return true;
     }
     else{
